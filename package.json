@@ -1,0 +1,19 @@
+{
+  "name": "generator-js-library",
+  "version": "0.0.1",
+  "description": "generator to get started with building a js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "js",
+    "library"
+  ],
+  "author": "Sai Gudigundla",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.17.1"
+  }
+}
